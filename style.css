@@ -1,0 +1,10 @@
+.card p {
+    margin-top: -3px;
+    margin-bottom: 0,5px;
+
+}
+.row .card:hover{
+    box-shadow: 2px 2px 2px 	 rgb(0, 128, 0);
+    transform: scale(1.05);
+
+}
